@@ -1,7 +1,5 @@
 # Python Password Manager 🔐
 
-![Python Password Manager](/password_manager.png)
-
 The Python Password Manager is a simple GUI application created using Python's Tkinter module. It allows users to generate random passwords of varying strengths and lengths, copy generated passwords to the clipboard, save usernames, website addresses, and passwords to a text file, and view all saved passwords.
 
 ## Features 🌟
@@ -33,7 +31,12 @@ The Python Password Manager is a simple GUI application created using Python's T
 - `password_manager.py`: Main Python script containing the PasswordManager class and GUI functionality.
 - `info.txt`: Text file to store saved passwords, usernames, and website addresses.
 - `images/`: Directory containing images used in the README and project.
+## Screenshots 📸
 
+![Python Password Manager](1.png)
+
+### Viewing Saved Passwords
+![Viewing Saved Passwords](2.png)
 
 ## Future Enhancements 🚀
 
